@@ -1,5 +1,4 @@
 <p align="center"><a href="https://ocerious.github.io"><img width="80%" src="./assets/header.png" /></a></p>
-
 <br />
 
 I'm a passionate self-taught programmer from Australia.
@@ -7,8 +6,7 @@ I'm a passionate self-taught programmer from Australia.
 **About me**
 
 I'm a 17 year old college student.
-I enjoy mostly seinen and shonen manga/anime, aroid horticulture, weight-lifting, and video games; namely MMO RPGs like Guild Wars 2, WoW and Final Fantasy XIV.
-
+I enjoy mostly seinen and shonen manga/anime, aroid horticulture, weight-lifting, robotics/programming, and video games; namely MMO RPGs like Guild Wars 2, WoW and Final Fantasy XIV.
 
 **Languages and Tools:**  
 
@@ -22,5 +20,4 @@ I enjoy mostly seinen and shonen manga/anime, aroid horticulture, weight-lifting
 [![My github stats](https://github-readme-stats.vercel.app/api?username=ocerious&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ocerious&layout=compact&hide=html,css&theme=onedark)](https://github.com/ocerious/github-readme-stats)
-
 <br />
