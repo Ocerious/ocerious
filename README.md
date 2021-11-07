@@ -13,7 +13,6 @@ I enjoy mostly seinen and shonen manga/anime, aroid horticulture, weight-lifting
 
 Discord: `Ocerious#7440`</br>
 Twitter: `AdrianJBasri`</br>
-Email: `Adrianbasri@protonmail.com`</br>
 
 **Languages and Tools:**  
 
