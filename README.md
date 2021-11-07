@@ -9,10 +9,11 @@ I'm a 17 year old college student.
 I enjoy mostly seinen and shonen manga/anime, aroid horticulture, weight-lifting, robotics/programming, and video games; namely MMO RPGs like Guild Wars 2, WoW and Final Fantasy XIV.
 </br>
 
-**Other platforms:**
+**Feel free to contact me on:**
 
 Discord: `Ocerious#7440`</br>
 Twitter: `AdrianJBasri`</br>
+Email: `Adrianbasri@protonmail.com`</br>
 
 **Languages and Tools:**  
 
