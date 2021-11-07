@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught programmer and from Australia.
+I'm a self-taught programmer from Australia.
 
 **About me**
 
