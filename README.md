@@ -6,13 +6,8 @@ I'm a self-taught programmer from Australia.
 
 **About me**
 
-- 💼 Student
-
-- 📈 
-
-- ❤️ Passionate about robotics, cybersecurity, programming, digital art and more.
-
-- 💬 Ask me anything, my discord handle: "Ocerious#7440"
+I'm a 17 year old student.
+I enjoy seinen and shonen manga/anime, aroid horticulture, weight-lifting, and video games; namely MMO RPGs like Guild Wars 2, WoW and Final Fantasy XIV.
 
 
 **Languages and Tools:**  
@@ -23,6 +18,8 @@ I'm a self-taught programmer from Australia.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=ocerious&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
@@ -39,5 +36,3 @@ I'm a self-taught programmer from Australia.
 </a>
 
 <br />
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=ocerious&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
