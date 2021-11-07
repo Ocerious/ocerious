@@ -7,7 +7,7 @@ I'm a passionate self-taught programmer from Australia.
 **About me**
 
 I'm a 17 year old college student.
-I enjoy seinen and shonen manga/anime, aroid horticulture, weight-lifting, and video games; namely MMO RPGs like Guild Wars 2, WoW and Final Fantasy XIV.
+I enjoy mostly seinen and shonen manga/anime, aroid horticulture, weight-lifting, and video games; namely MMO RPGs like Guild Wars 2, WoW and Final Fantasy XIV.
 
 
 **Languages and Tools:**  
