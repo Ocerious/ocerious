@@ -22,7 +22,7 @@ Discord: `Ocerious#7440`</br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=ocerious&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=ocerious&?count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ocerious&layout=compact&hide=html,css&theme=onedark)](https://github.com/ocerious/github-readme-stats)
 <br />
