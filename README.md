@@ -10,7 +10,7 @@ I enjoy reading, manga/anime, aroid horticulture, weight-lifting, robotics/progr
 
 **Feel free to contact me on:**
 
-   <a href="https://www.linkedin.com/in/sailesh307/"><img src="https://user-images.githubusercontent.com/57597700/115221409-434f5080-a127-11eb-8605-0de27d8ee0e7.png" width=30></a>
+   <a href="https://www.linkedin.com/in/adrian-j-b/"><img src="https://user-images.githubusercontent.com/57597700/115221409-434f5080-a127-11eb-8605-0de27d8ee0e7.png" width=30></a>
    <a href="mailto: adrianbasri@protonmail.com"><img src="https://user-images.githubusercontent.com/57597700/115959649-e559a900-a52a-11eb-9cf5-3659573b814b.png" width=30></a>
 
 **Languages and Tools:**  
