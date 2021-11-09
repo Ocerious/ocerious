@@ -1,7 +1,9 @@
 
 **About me**
 
-I'm a 17 year old self-taught programmer from Australia ᕙ(`▿´)ᕗ
+I'm a 17 year old dumb-brain from Canberra, I'm currently still in college but do part-time study at ANU with their computer science extension program ᕙ(`▿´)ᕗ
+</br>
+Hoping to get a career in some type of IT, maybe cybersecurity engineering.
 
 I enjoy reading, manga/anime, aroid horticulture, weight-lifting, robotics/programming, and video games; namely MMO RPGs like Guild Wars 2, WoW and Final Fantasy XIV.
 </br>
