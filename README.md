@@ -18,7 +18,7 @@ I enjoy reading, manga/anime, aroid horticulture, weight-lifting, robotics/progr
 <p>
   <img alt="C" src="https://img.shields.io/badge/-C-05122A?style=flat&amp;logo=C&amp;logoColor=A8B9CC" style="max-width:100%;">
   <img alt="C++" src="https://img.shields.io/badge/-C++-05122A?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" style="max-width:100%;">
-  <img alt="Javascript" src="https://img.shields.io/badge/-Java-05122A?style=flat&amp;logo=Javascript&amp;logoColor=FFA518" style="max-width:100%;">
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-05122A?style=flat&amp;logo=Javascript&amp;logoColor=FFA518" style="max-width:100%;">
   <img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" style="max-width:100%;">
   
 </br>
