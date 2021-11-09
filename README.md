@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ocerious.github.io"><img width="80%" src="./assets/git-header.png" /></a></p>
+<p align="center"><a href="https://ocerious.github.io"><img width="80%" src="./assets/git-banner.png" /></a></p>
 <br />
 
 I'm a passionate self-taught programmer from Australia.
