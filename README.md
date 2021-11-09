@@ -1,7 +1,7 @@
 
 **About me**
 
-I'm a 17 year old passionate self-taught programmer from Australia  ᕙ( ͡❛ ㅅ ͡❛)ᕗ
+I'm a 17 year old passionate self-taught programmer from Australia ᕙ(︡❛ ㅅ❛︠)ᕗ
 
 I enjoy mostly seinen and shonen manga/anime, aroid horticulture, weight-lifting, robotics/programming, and video games; namely MMO RPGs like Guild Wars 2, WoW and Final Fantasy XIV.
 </br>
