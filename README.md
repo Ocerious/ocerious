@@ -1,7 +1,7 @@
 
 **About me**
 
-I'm a dumb-brain from Canberra, I'm currently still in college but do part-time study at ANU with their computer science extension program ᕙ(`▿´)ᕗ
+I'm a stupid 17 year old from Canberra, I'm currently still in college but do part-time study at ANU with their computer science extension program ᕙ(`▿´)ᕗ
 </br>
 Hoping to get a career in some type of IT, maybe cybersecurity engineering.
 
