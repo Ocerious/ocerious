@@ -30,7 +30,7 @@ I enjoy reading, manga/anime, aroid horticulture, weight-lifting, robotics/progr
 
 </p>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=ocerious&?count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=ocerious&?count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ocerious&layout=compact&hide=html,css&theme=material-palenight)](https://github.com/ocerious/github-readme-stats)
+[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ocerious&layout=compact&hide=html,css&theme=monokai)](https://github.com/ocerious/github-readme-stats)
 <br />
