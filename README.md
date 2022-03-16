@@ -3,7 +3,7 @@
 
 I'm a 17 year old from Canberra, I'm currently still in college but do part-time study at ANU with their creative computing extension program.
 </br>
-I'm hoping to get a career in some type of creative IT.
+I'm hoping to get a degree in engineering and IT.
 
 I enjoy reading, manga/anime, aroid horticulture, weight-lifting, robotics/programming, and video games; namely MMO RPGs like Guild Wars 2, WoW and Final Fantasy XIV.
 </br>
