@@ -1,7 +1,7 @@
 
 **About me**
 
-I'm a 17 year old from Canberra, I'm currently still in college but do part-time study at ANU with their computer science extension program.
+I'm a 17 year old from Canberra, I'm currently still in college but do part-time study at ANU with their creative computing extension program.
 </br>
 I'm hoping to get a career in some type of creative IT.
 
