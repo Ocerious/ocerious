@@ -5,7 +5,7 @@ I'm a 17 year old living in Canberra, I'm currently still in college but do part
 </br>
 I'm hoping to get a double degree in engineering and IT.
 
-I enjoy reading, manga/anime, aroid horticulture, weight-lifting, robotics/programming, and video games; namely MMO RPGs like Guild Wars 2, WoW and Final Fantasy XIV.
+I enjoy reading, manga/anime, aroid horticulture, weight-lifting, robotics/programming, and video games.
 </br>
 
 **Feel free to contact me on:**
