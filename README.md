@@ -1,7 +1,7 @@
 
 **About me**
 
-I'm a 17 year old living in Canberra, I'm currently still in college but do part-time study at ANU with their creative computing extension program.
+I'm an 18 year old living in Canberra, I'm currently still in college but do part-time study at ANU with their creative computing extension program.
 </br>
 I'm hoping to get a double degree in engineering and IT.
 
