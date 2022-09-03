@@ -3,10 +3,12 @@
 
 I'm an 18 year old living in Canberra, I'm currently still in college but do part-time study at ANU with their creative computing extension program.
 </br>
-I'm hoping to get a double degree in engineering and IT.
+I'm hoping to get a double degree in engineering and IT, to eventually work in cybersecurity engineering.
 
 I enjoy reading, manga/anime, aroid horticulture, weight-lifting, robotics/programming, and video games.
 </br>
+</br>
+Sorry if most of my repos are private :P
 
 **Feel free to contact me on:**
 
