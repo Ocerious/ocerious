@@ -1,9 +1,7 @@
 
 **About me**
 
-I'm an 18 year old living in Canberra, I'm currently studying to get my bachelors in IT and Business at UC.
-</br>
-I enjoy reading, manga/anime, aroid horticulture, weight-lifting, robotics/programming, and video games.
+I'm an 19 year old living in Canberra, I'm currently studying to get my bachelors in IT and Business at UC.
 </br>
 </br>
 Sorry most of my repos are private :P
