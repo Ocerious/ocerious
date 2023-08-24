@@ -1,7 +1,7 @@
 
 **About me**
 
-I'm a 19 year old living in Canberra, I'm currently studying to get my bachelors in IT and Business at UC.
+I'm a 19 year old living in Canberra.
 </br>
 </br>
 Sorry most of my repos are private :P
