@@ -1,11 +1,6 @@
 
 **About me**
 
-I'm a 19 year old living in Canberra.
-</br>
-</br>
-Sorry most of my repos are private :P
-
 **Feel free to contact me on:**
 
    <a href="https://www.linkedin.com/in/adrian-b-766b3820b/"><img src="https://user-images.githubusercontent.com/57597700/115221409-434f5080-a127-11eb-8605-0de27d8ee0e7.png" width=30></a>
